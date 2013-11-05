@@ -1,0 +1,51 @@
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\fjb\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+D:\Git Code\haiziwang\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+G:\第二版项目\投影拍摄\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb

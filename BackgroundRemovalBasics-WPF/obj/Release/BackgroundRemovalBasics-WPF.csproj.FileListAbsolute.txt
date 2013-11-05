@@ -1,0 +1,165 @@
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe.config
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_32.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_64.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.pdb
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.lib
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.pdb
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.dll
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.pdb
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.pdb
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.baml
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.g.cs
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\App.g.cs
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_Content.g.cs
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_MarkupCompile.cache
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.g.resources
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.Properties.Resources.resources
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.GetOutEventArgs.resources
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.exe
+C:\Users\fjb\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe.config
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.exe
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_32.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_64.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.lib
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.dll
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.pdb
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_Content.g.cs
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.g.resources
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.Properties.Resources.resources
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.GetOutEventArgs.resources
+C:\Users\Administrator\Desktop\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csproj.GenerateResource.Cache
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.baml
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.g.cs
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\App.g.cs
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_Content.g.cs
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_MarkupCompile.cache
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.g.resources
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.Properties.Resources.resources
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.GetOutEventArgs.resources
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csproj.GenerateResource.Cache
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_32.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_64.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.lib
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe.config
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.dll
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.xml
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.exe
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.pdb
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csprojResolveAssemblyReference.cache
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.baml
+D:\Git Code\haiziwang\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.g.cs
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe.config
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.exe
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_32.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_64.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.lib
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Expression.Drawing.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.xml
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.pdb
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csprojResolveAssemblyReference.cache
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.baml
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.baml
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.g.cs
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.g.cs
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\App.g.cs
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_Content.g.cs
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_MarkupCompile.cache
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.g.resources
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.Properties.Resources.resources
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.GetOutEventArgs.resources
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csproj.GenerateResource.Cache
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe.config
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.exe
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_32.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\KinectBackgroundRemoval180_64.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\libs\SoundUtilNative.lib
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.exe
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\BackgroundRemovalBasics-WPF.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Expression.Drawing.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Microsoft.Kinect.Toolkit.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\Newtonsoft.Json.xml
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\WebSocket4Net.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csprojResolveAssemblyReference.cache
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.baml
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.baml
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\MainWindow.g.cs
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\UserControl1.g.cs
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\App.g.cs
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_Content.g.cs
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF_MarkupCompile.cache
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.g.resources
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.Properties.Resources.resources
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\Microsoft.Samples.Kinect.BackgroundRemovalBasics.GetOutEventArgs.resources
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\obj\Release\BackgroundRemovalBasics-WPF.csproj.GenerateResource.Cache
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\GifImageLib.dll
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\GifImageLib.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\qnftmgpxlk.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\qnftmgpxlk.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\GifImageLib.dll
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\GifImageLib.pdb
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\1.wav
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\2.wav
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\3.wav
+F:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\4.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\1.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\2.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\3.wav
+G:\第二版项目\投影拍摄\BackgroundRemovalBasics-WPF\bin\Release\audio\4.wav

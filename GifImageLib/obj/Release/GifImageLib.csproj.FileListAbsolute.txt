@@ -1,0 +1,7 @@
+F:\第二版项目\投影拍摄\GifImageLib\bin\Release\GifImageLib.dll
+F:\第二版项目\投影拍摄\GifImageLib\bin\Release\GifImageLib.pdb
+F:\第二版项目\投影拍摄\GifImageLib\obj\Release\GifImageLib.csprojResolveAssemblyReference.cache
+F:\第二版项目\投影拍摄\GifImageLib\obj\Release\GifImageLib.Properties.Resources.resources
+F:\第二版项目\投影拍摄\GifImageLib\obj\Release\GifImageLib.csproj.GenerateResource.Cache
+F:\第二版项目\投影拍摄\GifImageLib\obj\Release\GifImageLib.dll
+F:\第二版项目\投影拍摄\GifImageLib\obj\Release\GifImageLib.pdb

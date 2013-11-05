@@ -1,0 +1,7 @@
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\bin\Debug\GifImageLib.dll
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\bin\Debug\GifImageLib.pdb
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.csprojResolveAssemblyReference.cache
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.Properties.Resources.resources
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.csproj.GenerateResource.Cache
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.dll
+C:\Users\fjb\Downloads\GifImageDemo\GifImageLib\obj\Debug\GifImageLib.pdb
